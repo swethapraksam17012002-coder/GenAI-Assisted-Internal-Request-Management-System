@@ -1,0 +1,17 @@
+Chat Transcript - Sample Request
+
+Agent: Hello, IT Support here. How can I help you today?
+User: Hi, this is Suresh.
+User: My email is suresh@example.com.
+User: I am unable to access the production VPN from my company laptop.
+User: I need this fixed as soon as possible because I have a production deployment tonight.
+Agent: Understood. Are you seeing any error message?
+User: Yes, it says authentication failed when I try to connect.
+Agent: Thanks, we will look into it.
+
+Summary:
+- Requester name: Suresh
+- Requester email: suresh@example.com
+- Issue: Unable to access production VPN
+- Business impact: Production deployment tonight
+- Priority hint: High

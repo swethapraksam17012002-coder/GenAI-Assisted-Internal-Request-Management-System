@@ -1,0 +1,48 @@
+# NEXUS SDLC - Backend Dependencies
+# Python 3.12+
+
+# ── Web Framework ────────────────────────────────────────────────────────────
+fastapi==0.115.0
+uvicorn==0.35.0
+python-multipart==0.0.9
+
+# ── Database ─────────────────────────────────────────────────────────────────
+sqlalchemy[asyncio]==2.0.35
+aiosqlite==0.21.0
+alembic==1.13.2
+
+# ── Auth / Security ───────────────────────────────────────────────────────────
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+pydantic[email]==2.11.9
+pydantic-settings==2.10.1
+
+# ── Rate Limiting ─────────────────────────────────────────────────────────────
+slowapi==0.1.9
+
+# ── AI Frameworks ─────────────────────────────────────────────────────────────
+langgraph==0.2.28
+langsmith==0.1.130
+crewai==1.10.1
+litellm==1.74.9
+pyautogen==0.4.0
+
+# ── RAG ───────────────────────────────────────────────────────────────────────
+chromadb==1.1.0
+sentence-transformers==3.1.1
+
+# ── HTTP ──────────────────────────────────────────────────────────────────────
+httpx==0.28.1
+aiohttp==3.10.5
+google-api-python-client==2.166.0
+google-auth==2.39.0
+google-auth-oauthlib==1.2.1
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv==1.1.1
+orjson==3.10.7
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+pytest==8.3.3
+pytest-asyncio==0.24.0
+factory-boy==3.3.1

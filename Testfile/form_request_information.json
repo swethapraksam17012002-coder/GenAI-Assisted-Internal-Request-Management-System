@@ -1,0 +1,9 @@
+{
+  "requestor_name": "Anita Rao",
+  "requestor_email": "anita.rao@example.com",
+  "requestor_employee_id": "EMP-2281",
+  "request_type": "Information",
+  "source_channel": "Form",
+  "priority": "Medium",
+  "raw_description": "Please share the company laptop replacement policy and the approval process for requesting a new device for development work."
+}

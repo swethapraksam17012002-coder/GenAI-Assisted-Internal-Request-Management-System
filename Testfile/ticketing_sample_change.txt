@@ -1,0 +1,15 @@
+Ticket ID: CHG-2026-00127
+Source: Change Management Export
+Requested By: Anita Rao <anita.rao@example.com>
+Business Unit: Product Engineering
+Priority: Medium
+Category: Access Change
+Planned Window: 2026-03-23 22:00 IST to 2026-03-24 01:00 IST
+
+Change Summary:
+Request to grant temporary production read-only access for deployment verification.
+
+Description:
+The release team needs temporary read-only production database access for post-deployment validation.
+Access should be limited to the Analytics reporting schema and revoked after the release window.
+Approval from the engineering manager is already available in the change record.

@@ -1,0 +1,16 @@
+Ticket ID: INC-2026-00418
+Source: Service Desk Portal Export
+Opened By: Suresh Kumar <suresh.kumar@example.com>
+Assigned Group: EUC Support
+Priority: High
+Category: Teams / Audio
+Created At: 2026-03-21 09:14 IST
+
+Short Description:
+Teams microphone issue. Other participants cannot hear my voice during meetings.
+
+Detailed Notes:
+User reported that the laptop microphone stopped working after a Windows update.
+Teams shows the microphone device, but audio input level stays at zero.
+The issue is affecting project stand-up calls and an upcoming customer session.
+Please check microphone permissions, audio drivers, and Teams device settings.
